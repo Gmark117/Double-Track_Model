@@ -1,0 +1,25 @@
+\begin{tabular}{lllll|llll}
+\hline
+\multicolumn{9}{c}{Alignment Moment~ - VAL\_test\_description}                                                                                                                                                                        \\
+\hline
+Dataset                         & \multicolumn{4}{c|}{VAL\_REAR\_dataset\_name}                                                & \multicolumn{4}{c}{VAL\_FRONT\_dataset\_name}                                                     \\
+\hline
+\multicolumn{1}{c}{}            & \multicolumn{4}{c|}{Parameters}                                                              & \multicolumn{4}{c}{Parameters}                                                                    \\
+\hline
+Parameter Name                  & $V_x = 5$ m/s     & $V_x = 20$ m/s     & $V_x = 45$ m/s     & $V_x = 90$ m/s     & $V_x = 5$ m/s      & $V_x = 20$ m/s      & $V_x = 45$ m/s      & $V_x = 90$ m/s       \\
+qHz1                            & VAL\_REAR\_VX5\_qHz1 & VAL\_REAR\_VX20\_qHz1 & VAL\_REAR\_VX45\_qHz1 & VAL\_REAR\_VX90\_qHz1 & VAL\_FRONT\_VX5\_qHz1 & VAL\_FRONT\_VX20\_qHz1 & VAL\_FRONT\_VX45\_qHz1 & VAL\_FRONT\_VX90\_qHz1  \\
+qBz1                            & VAL\_REAR\_VX5\_qBz1 & VAL\_REAR\_VX20\_qBz1 & VAL\_REAR\_VX45\_qBz1 & VAL\_REAR\_VX90\_qBz1 & VAL\_FRONT\_VX5\_qBz1 & VAL\_FRONT\_VX20\_qBz1 & VAL\_FRONT\_VX45\_qBz1 & VAL\_FRONT\_VX90\_qBz1  \\
+qCz1                            & VAL\_REAR\_VX5\_qCz1 & VAL\_REAR\_VX20\_qCz1 & VAL\_REAR\_VX45\_qCz1 & VAL\_REAR\_VX90\_qCz1 & VAL\_FRONT\_VX5\_qCz1 & VAL\_FRONT\_VX20\_qCz1 & VAL\_FRONT\_VX45\_qCz1 & VAL\_FRONT\_VX90\_qCz1  \\
+qDz1                            & VAL\_REAR\_VX5\_qDz1 & VAL\_REAR\_VX20\_qDz1 & VAL\_REAR\_VX45\_qDz1 & VAL\_REAR\_VX90\_qDz1 & VAL\_FRONT\_VX5\_qDz1 & VAL\_FRONT\_VX20\_qDz1 & VAL\_FRONT\_VX45\_qDz1 & VAL\_FRONT\_VX90\_qDz1  \\
+qEz1                            & VAL\_REAR\_VX5\_qEz1 & VAL\_REAR\_VX20\_qEz1 & VAL\_REAR\_VX45\_qEz1 & VAL\_REAR\_VX90\_qEz1 & VAL\_FRONT\_VX5\_qEz1 & VAL\_FRONT\_VX20\_qEz1 & VAL\_FRONT\_VX45\_qEz1 & VAL\_FRONT\_VX90\_qEz1  \\
+qEz4                            & VAL\_REAR\_VX5\_qEz4 & VAL\_REAR\_VX20\_qEz4 & VAL\_REAR\_VX45\_qEz4 & VAL\_REAR\_VX90\_qEz4 & VAL\_FRONT\_VX5\_qEz4 & VAL\_FRONT\_VX20\_qEz4 & VAL\_FRONT\_VX45\_qEz4 & VAL\_FRONT\_VX90\_qEz4  \\
+qBz9                            & VAL\_REAR\_VX5\_qBz9 & VAL\_REAR\_VX20\_qBz9 & VAL\_REAR\_VX45\_qBz9 & VAL\_REAR\_VX90\_qBz9 & VAL\_FRONT\_VX5\_qBz9 & VAL\_FRONT\_VX20\_qBz9 & VAL\_FRONT\_VX45\_qBz9 & VAL\_FRONT\_VX90\_qBz9  \\
+qBz10                           & VAL\_REAR\_VX5\_qBz10 & VAL\_REAR\_VX20\_qBz10 & VAL\_REAR\_VX45\_qBz10 & VAL\_REAR\_VX90\_qBz10 & VAL\_FRONT\_VX5\_qBz10 & VAL\_FRONT\_VX20\_qBz10 & VAL\_FRONT\_VX45\_qBz10 & VAL\_FRONT\_VX90\_qBz10 \\
+qDz6                            & VAL\_REAR\_VX5\_qDz6 & VAL\_REAR\_VX20\_qDz6 & VAL\_REAR\_VX45\_qDz6 & VAL\_REAR\_VX90\_qDz6 & VAL\_FRONT\_VX5\_qDz6 & VAL\_FRONT\_VX20\_qDz6 & VAL\_FRONT\_VX45\_qDz6 & VAL\_FRONT\_VX90\_qDz6  \\
+\hline
+\multicolumn{1}{c|}{}           & \multicolumn{4}{c|}{Metrics}                                                                 & \multicolumn{4}{c}{Metrics}                                                                       \\
+\hline
+RMSE                            & VAL\_REAR\_VX5\_RMSE & VAL\_REAR\_VX20\_RMSE & VAL\_REAR\_VX45\_RMSE & VAL\_REAR\_VX90\_RMSE & VAL\_FRONT\_VX5\_RMSE & VAL\_FRONT\_VX20\_RMSE & VAL\_FRONT\_VX45\_RMSE & VAL\_FRONT\_VX90\_RMSE  \\
+R$^2$ value                       & VAL\_REAR\_VX5\_R2   & VAL\_REAR\_VX20\_R2   & VAL\_REAR\_VX45\_R2   & VAL\_REAR\_VX90\_R2   & VAL\_FRONT\_VX5\_R2   & VAL\_FRONT\_VX20\_R2   & VAL\_FRONT\_VX45\_R2   & VAL\_FRONT\_VX90\_R2    \\
+\hline
+\end{tabular}

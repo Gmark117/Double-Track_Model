@@ -1,0 +1,23 @@
+\begin{tabular}{lllll|llll}
+\hline
+\multicolumn{9}{c}{Longitudinal Force~ - VAL\_test\_description}                                                                                                                                                                   \\
+\hline
+Dataset                         & \multicolumn{4}{c|}{VAL\_REAR\_dataset\_name}                                                & \multicolumn{4}{c}{VAL\_FRONT\_dataset\_name}                                                     \\
+\hline
+\multicolumn{1}{c}{}            & \multicolumn{4}{c|}{Parameters}                                                              & \multicolumn{4}{c}{Parameters}                                                                    \\
+\hline
+Parameter Name                  & $V_x = 5$ m/s     & $V_x = 20$ m/s     & $V_x = 45$ m/s     & $V_x = 90$ m/s     & $V_x = 5$ m/s      & $V_x = 20$ m/s      & $V_x = 45$ m/s      & $V_x = 90$ m/s       \\
+pCx1                            & VAL\_REAR\_VX5\_pCx1 & VAL\_REAR\_VX20\_pCx1 & VAL\_REAR\_VX45\_pCx1 & VAL\_REAR\_VX90\_pCx1 & VAL\_FRONT\_VX5\_pCx1 & VAL\_FRONT\_VX20\_pCx1 & VAL\_FRONT\_VX45\_pCx1 & VAL\_FRONT\_VX90\_pCx1  \\
+pDx1                            & VAL\_REAR\_VX5\_pDx1 & VAL\_REAR\_VX20\_pDx1 & VAL\_REAR\_VX45\_pDx1 & VAL\_REAR\_VX90\_pDx1 & VAL\_FRONT\_VX5\_pDx1 & VAL\_FRONT\_VX20\_pDx1 & VAL\_FRONT\_VX45\_pDx1 & VAL\_FRONT\_VX90\_pDx1  \\
+pEx1                            & VAL\_REAR\_VX5\_pEx1 & VAL\_REAR\_VX20\_pEx1 & VAL\_REAR\_VX45\_pEx1 & VAL\_REAR\_VX90\_pEx1 & VAL\_FRONT\_VX5\_pEx1 & VAL\_FRONT\_VX20\_pEx1 & VAL\_FRONT\_VX45\_pEx1 & VAL\_FRONT\_VX90\_pEx1  \\
+pEx4                            & VAL\_REAR\_VX5\_pEx4 & VAL\_REAR\_VX20\_pEx4 & VAL\_REAR\_VX45\_pEx4 & VAL\_REAR\_VX90\_pEx4 & VAL\_FRONT\_VX5\_pEx4 & VAL\_FRONT\_VX20\_pEx4 & VAL\_FRONT\_VX45\_pEx4 & VAL\_FRONT\_VX90\_pEx4  \\
+pHx1                            & VAL\_REAR\_VX5\_pHx1 & VAL\_REAR\_VX20\_pHx1 & VAL\_REAR\_VX45\_pHx1 & VAL\_REAR\_VX90\_pHx1 & VAL\_FRONT\_VX5\_pHx1 & VAL\_FRONT\_VX20\_pHx1 & VAL\_FRONT\_VX45\_pHx1 & VAL\_FRONT\_VX90\_pHx1  \\
+pKx1                            & VAL\_REAR\_VX5\_pKx1 & VAL\_REAR\_VX20\_pKx1 & VAL\_REAR\_VX45\_pKx1 & VAL\_REAR\_VX90\_pKx1 & VAL\_FRONT\_VX5\_pKx1 & VAL\_FRONT\_VX20\_pKx1 & VAL\_FRONT\_VX45\_pKx1 & VAL\_FRONT\_VX90\_pKx1  \\
+pVx1                            & VAL\_REAR\_VX5\_pVx1 & VAL\_REAR\_VX20\_pVx1 & VAL\_REAR\_VX45\_pVx1 & VAL\_REAR\_VX90\_pVx1 & VAL\_FRONT\_VX5\_pVx1 & VAL\_FRONT\_VX20\_pVx1 & VAL\_FRONT\_VX45\_pVx1 & VAL\_FRONT\_VX90\_pVx1  \\
+\hline
+\multicolumn{1}{c|}{}           & \multicolumn{4}{c|}{Metrics}                                                                 & \multicolumn{4}{c}{Metrics}                                                                       \\
+\hline
+RMSE                            & VAL\_REAR\_VX5\_RMSE & VAL\_REAR\_VX20\_RMSE & VAL\_REAR\_VX45\_RMSE & VAL\_REAR\_VX90\_RMSE & VAL\_FRONT\_VX5\_RMSE & VAL\_FRONT\_VX20\_RMSE & VAL\_FRONT\_VX45\_RMSE & VAL\_FRONT\_VX90\_RMSE  \\
+R$^2$ value                       & VAL\_REAR\_VX5\_R2   & VAL\_REAR\_VX20\_R2   & VAL\_REAR\_VX45\_R2   & VAL\_REAR\_VX90\_R2   & VAL\_FRONT\_VX5\_R2   & VAL\_FRONT\_VX20\_R2   & VAL\_FRONT\_VX45\_R2   & VAL\_FRONT\_VX90\_R2    \\
+\hline
+\end{tabular}
